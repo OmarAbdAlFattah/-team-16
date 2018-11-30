@@ -36,8 +36,5 @@ public class SmallestPrimeNumber {
 		return returnValue;
 	}
 	
-	public static void main(String args[]){
-		int array[] = {1, 10};
-		System.out.println(getSmallestPrime(array));
-	}
+	
 }
